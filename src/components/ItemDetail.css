@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+}
+
+.product-title {
+  font-size: large;
+  font-weight: 800;
+  margin: 0.5rem;
+}
+
+.product-image {
+  height: 22rem;
+  padding-top: 1rem 1rem 1rem 1rem;
+  border: solid;
+  border-radius: 1rem;
+  border-color: antiquewhite;
+}
+
+.ITC {
+  margin-top: 4rem;
+}
+
+.d-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.product-detail {
+  width: 22rem;
+  height: 40rem;
+  border: solid;
+  border-color: #fac259;
+  border-radius: 1rem;
+  margin: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 45%;
+}
+
+.product-price {
+  font-size: large;
+  font-weight: bold;
+  margin: 0.5rem;
+}
+
+.product-description {
+  font-size: small;
+  margin: 0.2rem;
+  text-align: center;
+}
+
+.product-stock {
+  font-size: medium;
+  margin: 0.5rem;
+}
+
+.add {
+  border-radius: 1rem;
+  border-color: rgb(124, 126, 129);
+  font-size: medium;
+  padding: 0.3rem;
+  margin: 0.5rem;
+  font-family: "Nunito", sans-serif;
+  background-color: #fac259;
+  color: rgb(124, 126, 129);
+}
+
+.add:hover {
+  transform: scale(1.05);
+  color: rgb(5, 5, 6);
+}
+
+.count {
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-size: medium;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 0.2rem;
+}
+
+.buttonAdd {
+  text-align: center;
+}
+
+.sum {
+  color: black;
+  background-color: rgb(237, 237, 237);
+}
+
+.totalCart {
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+  color: rgb(124, 126, 129);
+  font-weight: bold;
+}

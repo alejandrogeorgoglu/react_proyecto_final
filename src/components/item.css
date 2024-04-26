@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito", sans-serif;
+}
+
+.complete-card.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.card {
+  width: 13rem;
+  border: solid;
+  border-color: antiquewhite;
+  border-right: 1rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-img-top {
+  height: 15rem;
+}
+
+.card-title.h5 {
+  font-size: large;
+  font-weight: 800;
+}
+
+.descrition.card-text {
+  font-size: medium;
+}
+
+.price.card-text {
+  font-size: large;
+  font-weight: 800;
+  margin-top: 1rem;
+}
+
+.category.card-text {
+  font-size: xx-small;
+  font-family: "Nunito", sans-serif;
+  color: rgb(250, 250, 250);
+}

@@ -1,0 +1,36 @@
+.icons {
+  padding: 1rem;
+  border: 1rem;
+  display: flex;
+  flex-flow: row-reverse wrap;
+  justify-content: center;
+  width: 100%;
+  align-content: center;
+  height: 1rem;
+}
+
+.Icons1 {
+  padding-left: 2rem;
+  padding-right: 1rem;
+  color: rgb(133, 133, 123);
+  padding-bottom: 1rem;
+  display: flex;
+  flex-flow: row-reverse wrap;
+}
+
+.Icons2 {
+  padding: 1rem;
+}
+
+.IconCopyright {
+  padding-right: 0.2rem;
+  font-size: 0.8rem;
+}
+
+.Copyright {
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  color: rgb(133, 133, 123);
+  padding-top: 1rem;
+}

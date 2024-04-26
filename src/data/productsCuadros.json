@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Explosion Blu",
+    "size1": "30x20",
+    "size2": "60x40",
+    "size3": "90x60",
+    "picture": "/Imgs/137567_1.jpg",
+    "material1": "canvas",
+    "material2": "enmarcado",
+    "material3": "poster",
+    "price": "$10.000"
+  },
+
+  {
+    "id": 2,
+    "title": "Grey Oculus",
+    "size1": "30x20",
+    "size2": "60x40",
+    "size3": "90x60",
+    "picture": "/Imgs/as481x1.jpg",
+    "material1": "canvas",
+    "material2": "enmarcado",
+    "material3": "poster",
+    "price": "$12.000"
+  },
+
+  {
+    "id": 3,
+    "title": "Grey City",
+    "size1": "30x20",
+    "size2": "60x40",
+    "size3": "90x60",
+    "picture": "/Imgs/cuadro-decorativo-lienzo-pintura-ciudad-manhattan-nueva-york-gris-decoracion-pared-elegante-50x70-cm.jpg",
+    "material1": "canvas",
+    "material2": "enmarcado",
+    "material3": "poster",
+    "price": "$11.000"
+  },
+
+  {
+    "id": 4,
+    "title": "Abstract Reflex",
+    "size1": "30x20",
+    "size2": "60x40",
+    "size3": "90x60",
+    "picture": "/Imgs/cuadro-lienzo-abstracto-angoli-reflejos-a100.jpg",
+    "material1": "canvas",
+    "material2": "enmarcado",
+    "material3": "poster",
+    "price": "$15.000"
+  },
+
+  {
+    "id": 5,
+    "title": "Red and black",
+    "size1": "30x20",
+    "size2": "60x40",
+    "size3": "90x60",
+    "picture": "/Imgs/D_NQ_NP_759934-MLA32373397579_092019-O.webp",
+    "material1": "canvas",
+    "material2": "enmarcado",
+    "material3": "poster",
+    "price": "$15.000"
+  }
+]

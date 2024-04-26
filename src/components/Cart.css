@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cart {
+  background-color: white;
+  border: none;
+  border-radius: 1rem;
+  margin-top: 3rem;
+  margin-left: 30%;
+  padding-bottom: 3rem;
+  width: 40%;
+  text-align: center;
+}
+
+.table-cart {
+  background-color: rgb(229, 230, 230);
+  text-align: justify;
+}
+
+.pq {
+  text-align: center;
+}
+
+.titulo-cart {
+  font-size: larger;
+  font-weight: bold;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  text-decoration: underline;
+}
